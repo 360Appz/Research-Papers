@@ -1,4 +1,4 @@
-A brief research of how and when businesses/companies can dopt a new technology.
+A brief research of how and when businesses/companies can adopt new technologies.
 
 # References
 
