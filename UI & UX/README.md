@@ -2,6 +2,7 @@ This repository consists of my research done for this subject
 
 # Prototype
 
+* Done By: Joel, Bernard, Lionel, Adam
 * Demo: 
 
 * Screenshot
