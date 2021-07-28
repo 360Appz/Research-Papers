@@ -1,9 +1,9 @@
 This repository consists of my research done for this subject
 
-# Prototype
+# Final Prototype
 
 * Done By: Joel, Bernard, Lionel, Adam
-* Demo: 
+* Demo: https://www.youtube.com/watch?v=8dEeWwgjmzA
 
 * Screenshot
   
