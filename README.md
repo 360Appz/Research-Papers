@@ -1,5 +1,5 @@
 # Research-Papers
-This repository consists of all my research and papers done during my course
+This repository consists of all my research and papers done during my studies
 
 # Directory
 * **Cybersecurity** - Demonstrates a simulation of a trojan horse malware and how it can be used 
